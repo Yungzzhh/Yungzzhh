@@ -14,7 +14,7 @@
 
 I'm a passionate Frontend and Flutter Developer with a keen eye for creating beautiful, responsive, and user-friendly applications. I love turning ideas into reality through code and design.
 
-- 🔭 I'm currently working on [Your Current Project]
+- 🔭 I'm currently working on Flutter and Nextjs projects
 - 🌱 I'm always learning and staying up-to-date with the latest tech trends
 - 💬 Ask me about frontend development, Flutter, or anything tech-related!
 - 📫 How to reach me: [michaelyung0123@gmail.com](mailto:michaelyung0123@gmail.com)
